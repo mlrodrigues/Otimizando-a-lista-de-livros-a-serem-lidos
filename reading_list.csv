@@ -1,0 +1,39 @@
+position,book_name,author,pages,weight,decision
+0,Harry Potter e a Pedra Filosofal       ,J. K. Rowling,264,1,1.0
+1,Harry Potter e a CÃ¢mara Secreta        ,J. K. Rowling,288,1,1.0
+2,Harry Potter e o Prisioneiro de Azkaban,J. K. Rowling,317,1,1.0
+3,Harry Potter e o CÃ¡lice de Fogo        ,J. K. Rowling,636,1,0.0
+4,Harry Potter e a Ordem da FÃªnix        ,J. K. Rowling,766,2,0.0
+5,Harry Potter e o Enigma do PrÃ­ncipe    ,J. K. Rowling,607,1,0.0
+6,Harry Potter e as RelÃ­quias da Morte   ,J. K. Rowling,607,1,0.0
+7,O LadrÃ£o de Raios                      ,Rick Riordan,384,1,0.0
+8,O Mar de Monstros                      ,Rick Riordan,279,1,1.0
+9,A MaldiÃ§Ã£o do TitÃ£                     ,Rick Riordan,312,1,1.0
+10,A Batalha do Labirinto                ,Rick Riordan,361,1,0.0
+12,O Ãltimo Olimpiano                    ,Rick Riordan,381,1,0.0
+13,Jogos Vorazes                         ,Suzanne Collins,256,1,1.0
+14,Em Chamas                             ,Suzanne Collins,392,1,0.0
+15,A EsperanÃ§a                           ,Suzanne Collins,390,1,0.0
+16,It: A coisa                           ,Stephen King,1104,3,0.0
+23,All the Light We Cannot See,Anthony Doerr,530,3,0.0
+24,The Fault in Our Stars,John Green,313,2,1.0
+25,The Nightingale,Kristin Hannah,438,3,0.0
+26,The Girl on the Train,Paula Hawkins,323,2,1.0
+27,Gone Girl,Gillian Flynn,422,2,0.0
+28,Orphan Train,Christina Baker Kline,278,2,1.0
+29,The Goldfinch,Donna Tartt,771,2,0.0
+30,Gray Mountain,John Grisham,368,3,0.0
+31,Big Little Lies,Liane Moriarty,460,3,0.0
+32,The Invention of Wings,Sue Monk Kidd,384,2,0.0
+33,Me Before You,Jojo Moyes,369,3,0.0
+34,"The Escape (John Puller, #3)",David Baldacci,470,3,0.0
+35,Sarah's Key,Tatiana de Rosnay,294,2,1.0
+36,Before I Go,Colleen Oakley,309,3,1.0
+37,A Spool of Blue Thread,Anne Tyler,358,2,0.0
+38,The Husband's Secret,Liane Moriarty,396,3,0.0
+39,As Chimney Sweepers Come to Dust,Alan Bradley,392,3,0.0
+40,Revival,Stephen King,405,3,0.0
+41,Edge of Eternity,Ken Follett,1098,3,0.0
+42,Leaving Time,Jodi Picoult,398,3,0.0
+43,Sycamore Row,John Grisham,447,3,0.0
+44,Station Eleven,Emily St. John Mandel,336,2,1.0

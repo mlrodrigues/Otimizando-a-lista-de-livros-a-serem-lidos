@@ -1,0 +1,25 @@
+li {
+  list-style-type: none;
+}
+
+.icons{
+  padding-left: 1%;
+}
+
+.icons-itens{
+  padding-bottom: 48px;  
+}
+
+.icon-img{
+  width: 32px; 
+  height: 32px;
+}
+
+.icon-container{
+  display: grid;
+  height: 50rem;
+  vertical-align: middle;
+  align-content: stretch;
+  padding-top: 2%;
+}
+

@@ -1,0 +1,40 @@
+position,book_name,author,pages,weight
+
+0,Harry Potter e a Pedra Filosofal       ,J. K. Rowling,264,1
+1,Harry Potter e a Câmara Secreta        ,J. K. Rowling,288,1
+2,Harry Potter e o Prisioneiro de Azkaban,J. K. Rowling,317,1
+3,Harry Potter e o Cálice de Fogo        ,J. K. Rowling,636,1
+4,Harry Potter e a Ordem da Fênix        ,J. K. Rowling,766,2
+5,Harry Potter e o Enigma do Príncipe    ,J. K. Rowling,607,1
+6,Harry Potter e as Relíquias da Morte   ,J. K. Rowling,607,1
+7,O Ladrão de Raios                      ,Rick Riordan,384,1
+8,O Mar de Monstros                      ,Rick Riordan,279,1
+9,A Maldição do Titã                     ,Rick Riordan,312,1
+10,A Batalha do Labirinto                ,Rick Riordan,361,1
+12,O Último Olimpiano                    ,Rick Riordan,381,1
+13,Jogos Vorazes                         ,Suzanne Collins,256,1
+14,Em Chamas                             ,Suzanne Collins,392,1
+15,A Esperança                           ,Suzanne Collins,390,1
+16,It: A coisa                           ,Stephen King,1104,3
+23,All the Light We Cannot See,Anthony Doerr,530,3
+24,The Fault in Our Stars,John Green,313,2
+25,The Nightingale,Kristin Hannah,438,3
+26,The Girl on the Train,Paula Hawkins,323,2
+27,Gone Girl,Gillian Flynn,422,2
+28,Orphan Train,Christina Baker Kline,278,2
+29,The Goldfinch,Donna Tartt,771,2
+30,Gray Mountain,John Grisham,368,3
+31,Big Little Lies,Liane Moriarty,460,3
+32,The Invention of Wings,Sue Monk Kidd,384,2
+33,Me Before You,Jojo Moyes,369,3
+34,"The Escape (John Puller, #3)",David Baldacci,470,3
+35,Sarah's Key,Tatiana de Rosnay,294,2
+36,Before I Go,Colleen Oakley,309,3
+37,A Spool of Blue Thread,Anne Tyler,358,2
+38,The Husband's Secret,Liane Moriarty,396,3
+39,As Chimney Sweepers Come to Dust,Alan Bradley,392,3
+40,Revival,Stephen King,405,3
+41,Edge of Eternity,Ken Follett,1098,3
+42,Leaving Time,Jodi Picoult,398,3
+43,Sycamore Row,John Grisham,447,3
+44,Station Eleven,Emily St. John Mandel,336,2

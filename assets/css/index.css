@@ -1,0 +1,13 @@
+/* mobile */
+
+@media(max-width: 425px){
+  .icons{
+    display: flex;
+    padding-left: 1%;
+    justify-content: space-evenly;
+  }
+
+  .icon-container{
+    height: 20rem;
+  }
+} 

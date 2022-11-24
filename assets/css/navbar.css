@@ -1,0 +1,20 @@
+body{
+  background: #343a40!important;
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 15px;
+}
+
+.nav-item{
+  padding-left: 64px
+}
+
+.contact{
+  display: none;
+}
+
+.contact-r{
+  display: flex;
+}

@@ -1,0 +1,40 @@
+body{
+  background: #343a40!important;
+  font-family: 'Calibri';
+  color: white;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 15px;
+}
+
+.content-container{
+  padding-top: 50px;
+}
+
+.table{
+  background: #343a40!important;
+  color: white;
+  border-color: white;
+}
+td, th{
+  border: white 2px solid;
+  padding: .7em;
+  margin: 0;
+  /*border: 1px solid #ccc;*/
+  text-align: center;
+}
+
+.active{ 
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 15px;
+}
+
+.titulo{
+  display: flex;
+  align-content: flex-start;
+  justify-content: center;  
+}

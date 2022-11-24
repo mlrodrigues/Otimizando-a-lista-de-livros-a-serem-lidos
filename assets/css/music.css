@@ -1,0 +1,89 @@
+body{
+  font-family: 'Calibri';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 15px;
+  color: white;
+}
+
+
+.content{
+  display: grid; 
+  align-content: stretch; 
+  justify-content: center; 
+  align-items: center;
+}
+
+.content-text{
+  display: grid; 
+  align-items: center; 
+  justify-content: center; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 24px; 
+  line-height: 24px; 
+  color: #fff
+}
+
+.content-icons{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between;
+}
+
+.content-icons-last{
+  display: flex; 
+  align-items: center; 
+  justify-content: space-between; 
+  margin-bottom: auto;
+}
+
+.content-album{
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  color: #fff; 
+  font-style: normal; 
+  font-weight: 400; 
+  font-size: 8px; 
+  line-height: 8px; 
+  margin-bottom: auto;
+}
+
+.content-album{
+  display: grid; 
+  align-content: center; 
+  justify-content: center;
+}
+
+/* mobile */
+
+@media(max-width: 425px){
+  .icons{
+    display: flex;
+    padding-left: 1%;
+    justify-content: space-evenly;
+    padding-top: 60px;
+  }
+
+  .icon-container{
+    height: 35rem;
+  }
+
+  .icons-itens {
+    padding-left: 30px;
+  }
+
+  .content-text{
+    padding-bottom: 48px;
+  }
+
+  .content-icons-last{
+    padding-bottom: 48px;
+  }
+
+  .content-album{
+    padding-bottom: 48px;
+  }
+} 
