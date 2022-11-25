@@ -51,15 +51,12 @@ def optimize_bestseller_reading(hours, pages, period):
     for rownum, row in data.iterrows():
         for i, schedule in enumerate(decision_variables):
             if rownum == i:
-                formula = row['pages'] * schedule
+                formula = (row['pages'] / row['weight']) * schedule
                 total_pages_needs_to_read += formula
 
     total_pages_can_read = (period_reading * 4) * hours_week_read * pages_per_hour
 
-    print(row['weight'])
-    exit
-
-    prob += (total_pages_needs_to_read <= total_pages_can_read/row['weight'])
+    prob += (total_pages_needs_to_read <= total_pages_can_read )
 
     # now run optimization
     optimization_result = prob.solve()
